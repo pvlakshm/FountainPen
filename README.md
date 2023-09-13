@@ -4,7 +4,7 @@
 | Hyderabad         | Deccan, Hilal, Misak, Hema                                             |
 | Rajahmundry       | Ratnam, Ratnamson, Guider                                              |
 | Bhimavaram        | Brahmam                                                                |
-| Tenali            | Prasad, Asoka                                                          |
+| Tenali            | [Prasad](Pens/Prasad.md), Asoka                                        |
 | Warangal          | Merlin                                                                 |
 | Machlipatnam      | Swarna                                                                 |
 | Chennai           | ASA, Gem, Bril                                                         |
