@@ -7,7 +7,7 @@
 | Tenali            | [Prasad](Pens/Prasad.md), Asoka                                        |
 | Warangal          | Merlin                                                                 |
 | Machlipatnam      | Swarna                                                                 |
-| Chennai           | ASA, Gem, Bril                                                         |
+| Chennai           | ASA, Gama, Bril                                                        |
 | Thiruvallur       | Ranga                                                                  |
 | Kozhikode         | Kim, Kriptok, Amber, Elite                                             |
 | Kolkata           | Sulekha                                                                |
