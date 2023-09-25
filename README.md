@@ -1,7 +1,7 @@
 # Pens from various parts of India
 | Region            | Brand                                                                  |
 | ----------------- | ---------------------------------------------------------------------- |
-| Hyderabad         | Deccan, Hilal, Misak, Hema                                             |
+| Hyderabad         | Deccan, Hilal, Misak, Hema, Seaman's                                   |
 | Rajahmundry       | Ratnam, Ratnamson, Guider                                              |
 | Bhimavaram        | Brahmam                                                                |
 | Tenali            | [Prasad](Pens/Prasad.md), Asoka                                        |
@@ -10,7 +10,7 @@
 | Chennai           | ASA, Gama, Bril                                                        |
 | Thiruvallur       | Ranga                                                                  |
 | Kozhikode         | Kim, Kriptok, Amber, Elite                                             |
-| Kolkata           | Sulekha                                                                |
+| Kolkata           | Sulekha, Gooptu                                                        |
 | Aurangabad        | Abhay Pen Agencies, Astra                                              |
 | Kanpur            | Kanwrite                                                               |
 | Mumbai            | Writer, Plato, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj         |
