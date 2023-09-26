@@ -2,7 +2,7 @@
 | Region            | Brand                                                                  |
 | ----------------- | ---------------------------------------------------------------------- |
 | Hyderabad         | Deccan, Hilal, Misak, Hema, Seaman's                                   |
-| Rajahmundry       | Ratnam, Ratnamson, Guider                                              |
+| Rajahmundry       | Ratnam, Ratnamson, Guider, Leader                                      |
 | Bhimavaram        | Brahmam                                                                |
 | Tenali            | [Prasad](Pens/Prasad.md), Asoka                                        |
 | Warangal          | Merlin                                                                 |
