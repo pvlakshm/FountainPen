@@ -1,7 +1,7 @@
 # Pens from various parts of India
 | Region            | Brand                                                                  |
 | ----------------- | ---------------------------------------------------------------------- |
-| Hyderabad         | Deccan, Hilal, Misak, Hema, Seaman's                                   |
+| Hyderabad         | Deccan, Hilal, Woodex, PLP, Misak, Hema, Seaman's                      |
 | Rajahmundry       | Ratnam, Ratnamson, Guider, Leader                                      |
 | Bhimavaram        | Brahmam                                                                |
 | Tenali            | [Prasad](Pens/Prasad.md), Asoka                                        |
@@ -10,13 +10,13 @@
 | Vijayawada        | Ranga                                                                  |
 | Chennai           | ASA, Gama, Bril, Redfort                                               |
 | Thiruvallur       | Ranga                                                                  |
-| Kozhikode         | Kim, Kriptok, Amber, Elite                                             |
+| Kozhikode         | Kim, Kriptok, Amber / Krishna, Elite                                   |
 | Kolkata           | Sulekha, Gooptu                                                        |
 | Aurangabad        | Abhay Pen Agencies, Astra                                              |
 | Kanpur            | Kanwrite                                                               |
 | Mumbai            | Writer, Plato, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj         |
 | Lucknow           | Anupam Bharatiya, National                                             |
-| Varanasi          | Olympic                                                                |
+| Varanasi          | Luxmy Stylo, Penco, Ebonite, Olympic                                   |
 | Indore            | Unique Pen Industries                                                  |
 | Vadodara          | Vishwakarma Pen Co                                                     |
 | Kochi             | Bismi                                                                  |
