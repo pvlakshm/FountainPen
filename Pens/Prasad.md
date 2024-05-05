@@ -1,4 +1,7 @@
-Prasad Pens was established in 1953 by Mr. Taniganti Prasada Rao in [Tenali](https://en.wikipedia.org/wiki/Tenali), a town in the Guntur district of Andhra Pradesh.
+Company Name: Prasad Pens  
+Year est.: 1953  
+Promoter: Mr. Taniganti Prasada Rao  
+Location: [Tenali](https://en.wikipedia.org/wiki/Tenali), a town in the Guntur district of Andhra Pradesh.  
 
 Prasad pens were made of ebonite in mottled green, mottled brown and black, and from celluloid. The clip, the nib and the feed would all have the Prasad lettering. However, there were variations over the years with unbranded clips too. In early models the lettering "Prasad REGD PENWORKS TENALI" can be seen etched on the barrel. In later models, the lettering "Prasad Pen, Tenali" can be seen stamped on the barrel.
 
