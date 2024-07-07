@@ -14,7 +14,7 @@
 | Kolkata           | Sulekha, Gooptu                                                        |
 | Aurangabad        | Abhay Pen Agencies, Astra                                              |
 | Kanpur            | Kanwrite                                                               |
-| Mumbai            | Writer, Plato, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj         |
+| Mumbai            | Writer, Plato, Anchor, Camelin, Venus, Dhiraj, AirMail, Pankaj, Flair  |
 | Lucknow           | Anupam Bharatiya, National                                             |
 | Varanasi          | Luxmy Stylo, Penco, Ebonite, Olympic                                   |
 | Indore            | Unique Pen Industries                                                  |
